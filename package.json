@@ -42,7 +42,7 @@
     "unique-names-generator": "^1.0.13"
   },
   "devDependencies": {
-    "@babel/cli": "^7.1.0",
+    "@babel/cli": "^7.19.3",
     "@babel/core": "^7.1.0",
     "@babel/node": "^7.0.0",
     "@babel/preset-env": "^7.1.0",
