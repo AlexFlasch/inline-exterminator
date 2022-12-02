@@ -46,7 +46,7 @@
     "@babel/core": "^7.1.0",
     "@babel/node": "^7.0.0",
     "@babel/preset-env": "^7.1.0",
-    "ava": "^0.25.0",
+    "ava": "^5.1.0",
     "babel-plugin-shebang": "0.0.0",
     "babel-preset-env": "^1.7.0"
   }
